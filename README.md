@@ -1,0 +1,1 @@
+# genai_news_tool_equity
