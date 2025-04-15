@@ -17,7 +17,7 @@ A news research tool designed for effortless information retrieval. Users can in
 1.Clone this repository to your local machine using:
 
 ```bash
-  git clone 
+  git clone https://github.com/yashhd/genai_news_tool_equity.git
 ```
 2.Navigate to the project directory:
 
