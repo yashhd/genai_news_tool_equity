@@ -22,7 +22,7 @@ A news research tool designed for effortless information retrieval. Users can in
 2.Navigate to the project directory:
 
 ```bash
-  cd 2_news_research_tool_project
+  cd genai_news_tool_equity
 ```
 3. Install the required dependencies using pip:
 
